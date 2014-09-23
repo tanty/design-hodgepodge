@@ -149,12 +149,8 @@
       </cc:License>
     </rdf:RDF>
   </metadata>
-  <g
-     transform="translate(0,-7)"
-     id="layer1">
-    <path
-       d="M 6.75,16 2.25,11.5 6.75,7 z"
-       id="path6400"
-       style="fill-opacity:1;stroke:none" />
-  </g>
+  <path
+     d="M 6.34375,0 C 6.2009183,0.03400528 6.0686562,0.11115813 5.96875,0.21875 l -3.75,3.75 -0.5,0.53125 0.5,0.53125 3.75,3.75 C 6.1086414,8.9190777 6.3036185,8.9993624 6.5,9 l 0.03125,0 0.0625,0 0.65625,0 0,-0.5625 0,-0.09375 C 7.2858715,8.1070742 7.2019527,7.8553177 7.03125,7.6875 L 3.84375,4.5 7.03125,1.28125 C 7.170132,1.1421608 7.2506759,0.94655417 7.25,0.75 L 7.25,0.59375 7.25,0 6.65625,0 6.5625,0 6.5,0 6.40625,0 z"
+     id="path6040"
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
 </svg>

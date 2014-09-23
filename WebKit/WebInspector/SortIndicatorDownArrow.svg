@@ -189,12 +189,28 @@
       </cc:License>
     </rdf:RDF>
   </metadata>
-  <g
-     transform="translate(0,-8)"
-     id="layer1">
-    <path
-       d="m 1.5e-7,9.75 4.49999965,4.5 4.5000001,-4.5 z"
-       id="path6400"
-       style="fill-opacity:1;stroke:none" />
-  </g>
+  <path
+     d="M 8.9999997,2.5569969 C 8.9735517,2.6680882 8.9135437,2.7709587 8.8298608,2.8486635 L 5.9131941,5.7653302 5.4999997,6.1542191 5.0868053,5.7653302 2.1701386,2.8486635 C 2.0629393,2.7398591 2.0004956,2.5882103 1.9999997,2.4354691 l 0,-0.024306 0,-0.048611 0,-0.5104166 0.4375,0 0.072917,0 c 0.1840811,-0.0279 0.3798918,0.03737 0.5104166,0.1701389 L 5.5,4.5014413 8.0034722,2.0222747 C 8.1116527,1.9142553 8.2637912,1.8516101 8.4166667,1.8521358 l 0.1215277,0 0.4618056,0 0,0.4618055 0,0.072917 0,0.048611 0,0.072917 z"
+     id="path6040"
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+  <path
+     d="m -6.8474579,-4.3050847 a 3.2542372,3.2542372 0 1 1 -6.5084741,0 3.2542372,3.2542372 0 1 1 6.5084741,0 z"
+     transform="matrix(0.15364584,0,0,0.15364584,2.5520834,1.6614584)"
+     id="path8060"
+     style="color:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <path
+     d="m -6.8474579,-4.3050847 a 3.2542372,3.2542372 0 1 1 -6.5084741,0 3.2542372,3.2542372 0 1 1 6.5084741,0 z"
+     transform="matrix(0.15364584,0,0,0.15364584,2.5520834,7.6614584)"
+     id="path8060-1"
+     style="color:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <path
+     d="m -6.8474579,-4.3050847 a 3.2542372,3.2542372 0 1 1 -6.5084741,0 3.2542372,3.2542372 0 1 1 6.5084741,0 z"
+     transform="matrix(0.15364584,0,0,0.15364584,2.5520834,5.6614584)"
+     id="path8060-7"
+     style="color:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <path
+     d="m -6.8474579,-4.3050847 a 3.2542372,3.2542372 0 1 1 -6.5084741,0 3.2542372,3.2542372 0 1 1 6.5084741,0 z"
+     transform="matrix(0.15364584,0,0,0.15364584,2.5520834,3.6614584)"
+     id="path8060-4"
+     style="color:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
 </svg>

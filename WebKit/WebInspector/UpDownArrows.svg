@@ -357,19 +357,15 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(0,-4)"
-     id="layer1">
-    <g
-       transform="translate(0,-0.0343154)"
-       id="g15065">
-      <path
-         d="m 0.25,11.308199 2.25,2.25 2.25,-2.25 z"
-         id="path6400"
-         style="fill-opacity:1;stroke:none" />
-      <path
-         d="m 0.25,8.7604318 2.25,-2.25 2.25,2.25 z"
-         id="path6400-9"
-         style="fill-opacity:1;stroke:none" />
-    </g>
+     transform="translate(0,-0.115145)"
+     id="g3111">
+    <path
+       d="M 4.75,4.54279 C 4.7329949,4.471374 4.6944209,4.405243 4.6406249,4.35529 l -1.875,-1.875 L 2.5,2.23029 l -0.265625,0.25 -1.875,1.875 C 0.2904611,4.4252355 0.2503188,4.522724 0.25,4.620915 l 0,0.015625 0,0.03125 0,0.328125 0.28124999,0 0.046875,0 C 0.69646289,5.01385 0.82234109,4.97189 0.90624999,4.88654 L 2.5,3.29279 4.1093749,4.88654 c 0.069545,0.069441 0.167348,0.109713 0.265625,0.109375 l 0.078125,0 0.2968751,0 0,-0.296875 0,-0.046875 0,-0.03125 0,-0.046875 z"
+       id="path6040"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+    <path
+       d="M 4.75,7.6875 C 4.73299,7.758916 4.69442,7.825047 4.640625,7.875 L 2.765625,9.75 2.5,10 2.234375,9.75 0.359375,7.875 C 0.290465,7.805054 0.250319,7.707566 0.25,7.609375 l 0,-0.015625 0,-0.03125 0,-0.328125 0.28125,0 0.04687,0 C 0.696458,7.21644 0.822336,7.2584 0.906245,7.34375 L 2.499995,8.9375 4.10937,7.34375 C 4.17891,7.274309 4.276718,7.234037 4.374995,7.234375 l 0.07813,0 0.296875,0 0,0.296875 0,0.046875 0,0.03125 0,0.046875 z"
+       id="path6040-7"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
   </g>
 </svg>
