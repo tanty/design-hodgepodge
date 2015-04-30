@@ -1,0 +1,4 @@
+git://git.gnome.org/adwaita-icon-theme/src/symbolic/gnome-stencils.svg
+https://github.com/gnome-design-team/gnome-icons.git/inkscape-symbolic/inkscape-icons.svg
+https://github.com/gnome-design-team/gnome-icons.git/apps-symbolic/src/apps.svg
+https://github.com/gnome-design-team/gnome-icons.git/art-libre-symbolic/src/art-libre.svg
