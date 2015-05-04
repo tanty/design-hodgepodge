@@ -42,21 +42,12 @@
       </cc:License>
     </rdf:RDF>
   </metadata>
-  <g
-     transform="matrix(1.1428571,0,0,1.1428571,-1.1428567,-1.5884067)"
-     id="g8935">
-    <g
-       id="layer1">
-      <g
-         id="text8346"
-         style="font-size:12.55424404px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:1.79903996px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Sans Bold">
-        <path
-           d="m 6.8502775,4.8997764 -5.85027771,2.8749219 0,1.3307499 5.85027771,2.7744878 0,-1.56928 -3.9671411,-1.9082455 3.9671411,-1.9961248 0,-1.5065093"
-           id="path8351" />
-        <path
-           d="m 9.1497219,4.8997764 0,1.5065093 3.9671411,1.9961248 -3.9671411,1.9082455 0,1.56928 L 15,9.1054482 15,7.7746983 9.1497219,4.8997764"
-           id="path8353" />
-      </g>
-    </g>
-  </g>
+  <path
+     d="M 6.6860316,4.0113375 1.6000001e-7,7.2969625 l 0,1.5208569 L 6.6860316,11.988663 l 0,-1.793463 -4.5338754,-2.1808522 4.5338754,-2.2812854 0,-1.7217249"
+     id="path8351"
+     style="font-size:12.55424404px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:1.79903996px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Sans Bold" />
+  <path
+     d="m 9.3139679,4.0113375 0,1.7217249 4.5338751,2.2812854 -4.5338751,2.1808522 0,1.793463 L 16,8.8178194 16,7.2969625 9.3139679,4.0113375"
+     id="path8353"
+     style="font-size:12.55424404px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:1.79903996px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Sans Bold" />
 </svg>

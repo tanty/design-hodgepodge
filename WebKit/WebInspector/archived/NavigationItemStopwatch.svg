@@ -42,16 +42,12 @@
       </cc:License>
     </rdf:RDF>
   </metadata>
-  <g
-     transform="matrix(1.0685751,0,0,1.0685751,-0.5486008,-0.5486008)"
-     id="layer1">
-    <path
-       d="m 8.000005,0.51339 c -4.13029,0 -7.48661,3.35631 -7.48661,7.48661 0,4.13029 3.35632,7.48661 7.48661,7.48661 4.13029,0 7.4866,-3.35632 7.4866,-7.48661 0,-4.1303 -3.35631,-7.48661 -7.4866,-7.48661 z m 0,1.97322 c 3.04941,0 5.51339,2.46398 5.51339,5.51339 0,3.04941 -2.46398,5.51339 -5.51339,5.51339 -3.04941,0 -5.5134,-2.46398 -5.5134,-5.51339 0,-3.04941 2.46399,-5.51339 5.5134,-5.51339 z"
-       id="path24839"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill-opacity:1;stroke:none;stroke-width:2.15384626;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Sans;-inkscape-font-specification:Sans" />
-    <path
-       d="M 4.812305,4.46875 A 0.50005,0.50005 0 0 0 4.593555,5.3125 l 3.09375,3.0625 a 0.50005,0.50005 0 0 0 0.0625,0.0312 0.50005,0.50005 0 0 0 0.0625,0.0312 0.50005,0.50005 0 0 0 0.0625,0.0312 0.50005,0.50005 0 0 0 0.0312,0 0.50005,0.50005 0 0 0 0.0625,0.0312 0.50005,0.50005 0 0 0 0.0937,0 l 0.15625,0 2.78125,0 a 0.50005,0.50005 0 1 0 0,-1 l -2.75,0 -2.96875,-2.875 A 0.50005,0.50005 0 0 0 4.812205,4.46855 z"
-       id="path25609"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Sans;-inkscape-font-specification:Sans" />
-  </g>
+  <path
+     d="M 8.0000053,-5.029411e-6 C 3.5864803,-5.029411e-6 3.134645e-7,3.5864643 3.134645e-7,8 3.134645e-7,12.413525 3.5864803,16.000005 8.0000053,16.000005 12.41353,16.000005 16,12.413525 16,8 16,3.5864643 12.41353,-5.029411e-6 8.0000053,-5.029411e-6 z m 0,2.108533729411 c 3.2585237,0 5.8914717,2.6329477 5.8914717,5.8914713 0,3.258524 -2.632948,5.891471 -5.8914717,5.891471 -3.2585236,0 -5.8914819,-2.632947 -5.8914819,-5.891471 0,-3.2585236 2.6329583,-5.8914713 5.8914819,-5.8914713 z"
+     id="path24839"
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill-opacity:1;stroke:none;stroke-width:2.15384626;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Sans;-inkscape-font-specification:Sans" />
+  <path
+     d="M 4.5937085,4.2265942 A 0.53434098,0.53434098 0 0 0 4.3599577,5.1282044 l 3.3059042,3.2725113 a 0.53434098,0.53434098 0 0 0 0.066786,0.03334 0.53434098,0.53434098 0 0 0 0.066786,0.03334 0.53434098,0.53434098 0 0 0 0.066786,0.03334 0.53434098,0.53434098 0 0 0 0.03334,0 0.53434098,0.53434098 0 0 0 0.066786,0.03334 0.53434098,0.53434098 0 0 0 0.1001255,0 l 0.1669649,0 2.9719747,0 a 0.53434098,0.53434098 0 1 0 0,-1.0685751 l -2.9385818,0 -3.172333,-3.0721553 A 0.53434098,0.53434098 0 0 0 4.5936016,4.2263805 z"
+     id="path25609"
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Sans;-inkscape-font-specification:Sans" />
 </svg>

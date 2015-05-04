@@ -42,16 +42,12 @@
       </cc:License>
     </rdf:RDF>
   </metadata>
-  <g
-     transform="matrix(0.80143136,0,0,0.80143136,1.198567,1.9840194)"
-     id="layer1">
-    <path
-       d="m 8.486612,0.01994 c -4.13029,0 -7.48661,3.35631 -7.48661,7.48661 0,4.13029 3.35632,7.4866 7.48661,7.4866 4.13029,0 7.4866,-3.35631 7.4866,-7.4866 0,-4.1303 -3.35631,-7.48661 -7.4866,-7.48661 z m 0,1.97321 c 3.04941,0 5.51339,2.46399 5.51339,5.5134 0,3.04941 -2.46398,5.51339 -5.51339,5.51339 -3.04941,0 -5.5134,-2.46398 -5.5134,-5.51339 0,-3.04941 2.46399,-5.5134 5.5134,-5.5134 z"
-       id="path3869"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill-opacity:1;stroke:none;stroke-width:2.15384626;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-    <path
-       d="m 11.392862,4.00654 a 0.50005,0.50005 0 0 0 -0.25,0.15625 L 8.486612,6.81904 6.830362,5.16279 a 0.50005,0.50005 0 1 0 -0.6875,0.6875 l 2,2 a 0.50005,0.50005 0 0 0 0.6875,0 l 3,-3 a 0.50005,0.50005 0 0 0 -0.4375,-0.84375 z"
-       id="path4639"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-  </g>
+  <path
+     d="M 8.000004,1.9999999 C 4.6898601,1.9999999 2,4.689852 2,8.000004 2,11.310148 4.6898601,14 8.000004,14 11.310148,14 14,11.310148 14,8.000004 14,4.689852 11.310148,1.9999999 8.000004,1.9999999 z m 0,1.5813924 c 2.443893,0 4.418604,1.9747189 4.418604,4.4186117 0,2.443893 -1.974711,4.418604 -4.418604,4.418604 -2.4438928,0 -4.4186117,-1.974711 -4.4186117,-4.418604 0,-2.4438928 1.9747189,-4.4186117 4.4186117,-4.4186117 z"
+     id="path3869"
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill-opacity:1;stroke:none;stroke-width:2.15384626;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+  <path
+     d="M 10.329164,5.1949862 A 0.40075575,0.40075575 0 0 0 10.128806,5.3202099 L 8.000004,7.4490119 6.6726333,6.1216412 A 0.40075575,0.40075575 0 1 0 6.1216492,6.6726253 L 7.724512,8.275488 a 0.40075575,0.40075575 0 0 0 0.550984,0 L 10.67979,5.8711939 A 0.40075575,0.40075575 0 0 0 10.329164,5.1949862 z"
+     id="path4639"
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
 </svg>

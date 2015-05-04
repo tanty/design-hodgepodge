@@ -42,12 +42,8 @@
       </cc:License>
     </rdf:RDF>
   </metadata>
-  <g
-     transform="matrix(1.0665886,0,0,1.0665886,-0.53270859,-0.5327088)"
-     id="layer1">
-    <path
-       d="m 2.8124436,0.50054895 a 1.0000999,1.0000999 0 0 0 -0.8125,1.00000005 l 0,13 a 1.0000999,1.0000999 0 0 0 1.0000001,1 l 9.9999993,0 a 1.0000999,1.0000999 0 0 0 1,-1 l 0,-9.4375 a 1.0000999,1.0000999 0 0 0 -0.28125,-0.71875 L 10.156194,0.78179895 a 1.0000999,1.0000999 0 0 0 -0.7187503,-0.28125 l -6.4375,0 a 1.0000999,1.0000999 0 0 0 -0.0937,0 1.0000999,1.0000999 0 0 0 -0.0937,0 z m 1.1875001,2.00000005 5,0 0,3 2.9999993,0 0,8 -7.9999993,0 0,-11 z"
-       id="path1234"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill-opacity:1;stroke:none;stroke-width:1.99999988;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-  </g>
+  <path
+     d="M 2.4670117,0.001171 A 1.0666952,1.0666952 0 0 0 1.6004085,1.0677597 l 0,13.8656513 A 1.0666952,1.0666952 0 0 0 2.6669972,16 l 10.6658848,0 a 1.0666952,1.0666952 0 0 0 1.066589,-1.066589 l 0,-10.0659295 A 1.0666952,1.0666952 0 0 0 14.099493,4.100871 L 10.299772,0.30114905 A 1.0666952,1.0666952 0 0 0 9.5331613,0.001171 l -6.8661641,0 a 1.0666952,1.0666952 0 0 0 -0.099939,0 1.0666952,1.0666952 0 0 0 -0.099939,0 z m 1.2665741,2.1331773 5.332943,0 0,3.1997658 3.1997652,0 0,8.5327089 -8.5327082,0 0,-11.7324747 z"
+     id="path1234"
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill-opacity:1;stroke:none;stroke-width:1.99999988;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
 </svg>
