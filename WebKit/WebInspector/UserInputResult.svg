@@ -42,17 +42,12 @@
       </cc:License>
     </rdf:RDF>
   </metadata>
-  <g
-     transform="translate(0,-6)"
-     id="layer1">
-    <path
-       d="M 5.0625,14.125008 1.9375,10.999993 5.0625,7.8749923"
-       id="path11751-2-3"
-       style="color:#bebebe;fill:none;stroke:#d3d7cf;stroke-width:1.875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible" />
-    <path
-       d="m -5.0905941,-12.209406 a 2.2074258,2.2074258 0 1 1 -4.4148516,0 2.2074258,2.2074258 0 1 1 4.4148516,0 z"
-       transform="matrix(0.45301635,0,0,0.45301635,10.342756,16.53106)"
-       id="path3165"
-       style="color:#000000;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-  </g>
+  <path
+     d="M 5.0625,8.125008 1.9375,4.999993 5.0625,1.8749923"
+     id="path11751-2-3"
+     style="color:#bebebe;fill:none;stroke:#d3d7cf;stroke-width:1.875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible" />
+  <path
+     d="m 8.0366336,4.9999995 a 0.99999998,0.99999998 0 1 1 -1.9999999,0 0.99999998,0.99999998 0 1 1 1.9999999,0 z"
+     id="path3165"
+     style="color:#000000;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
 </svg>

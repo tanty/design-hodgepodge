@@ -42,13 +42,8 @@
       </cc:License>
     </rdf:RDF>
   </metadata>
-  <g
-     transform="matrix(0.76923077,0,0,0.76923077,-1.4615385,-1.1538462)"
-     id="layer1"
-     style="fill:#729fcf;fill-opacity:1">
-    <path
-       d="M 10.025,3.125 14.9,8 l -4.875,4.875 -7.3411812,0 C 2.2529256,12.857044 1.9,12.475437 1.9,12.0625 l 0,-8.125 C 1.9,3.5062331 2.1808081,3.125 2.7197313,3.125 z"
-       id="path43079"
-       style="color:#000000;fill:#729fcf;fill-opacity:1;fill-rule:nonzero;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-  </g>
+  <path
+     d="M 6.25,1.25 10,5 6.25,8.75 0.6029375,8.75 C 0.27148119,8.7361877 -3.7e-8,8.4426438 -3.7e-8,8.125 l 0,-6.25 C -3.7e-8,1.5432562 0.21600619,1.25 0.6305625,1.25 z"
+     id="path43079"
+     style="color:#000000;fill:#729fcf;fill-opacity:1;fill-rule:nonzero;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
 </svg>

@@ -42,11 +42,8 @@
       </cc:License>
     </rdf:RDF>
   </metadata>
-  <g
-     id="layer1">
-    <path
-       d="M 10.025,3.125 14.9,8 l -4.875,4.875 -7.3411812,0 C 2.2529256,12.857044 1.9,12.475437 1.9,12.0625 l 0,-8.125 C 1.9,3.5062331 2.1808081,3.125 2.7197313,3.125 z"
-       id="path43079"
-       style="color:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-  </g>
+  <path
+     d="M 10.025,3.125 14.9,8 l -4.875,4.875 -7.3411812,0 C 2.2529256,12.857044 1.9,12.475437 1.9,12.0625 l 0,-8.125 C 1.9,3.5062331 2.1808081,3.125 2.7197313,3.125 z"
+     id="path43079"
+     style="color:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
 </svg>

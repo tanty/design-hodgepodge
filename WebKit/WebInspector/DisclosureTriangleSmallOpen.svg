@@ -42,16 +42,8 @@
       </cc:License>
     </rdf:RDF>
   </metadata>
-  <g
-     transform="translate(0,-3)"
-     id="layer1">
-    <g
-       transform="matrix(1.2222223,0,0,1.2222223,0.99999962,-5.1666676)"
-       id="layer1-7">
-      <path
-         d="m 1.5e-7,9.75 4.49999965,4.5 4.5000001,-4.5 z"
-         id="path6400"
-         style="fill-opacity:1;stroke:none" />
-    </g>
-  </g>
+  <path
+     d="M 0.9999998,3.7499998 6.4999997,9.2500002 12,3.7499998 z"
+     id="path6400"
+     style="fill-opacity:1;stroke:none" />
 </svg>

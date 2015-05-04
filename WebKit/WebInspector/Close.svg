@@ -42,12 +42,8 @@
       </cc:License>
     </rdf:RDF>
   </metadata>
-  <g
-     transform="translate(0,-2)"
-     id="layer1">
-    <path
-       d="m 4,5 1,0 c 0.01037,-1.2e-4 0.02079,-4.6e-4 0.03125,0 0.254951,0.0112 0.50987,0.12858 0.6875,0.3125 L 8,7.59375 10.3125,5.3125 C 10.578125,5.082 10.759172,5.007 11,5 l 1,0 0,1 c 0,0.28647 -0.03434,0.55065 -0.25,0.75 l -2.28125,2.28125 2.25,2.25 C 11.906938,11.46942 11.999992,11.7347 12,12 l 0,1 -1,0 c -0.265301,-10e-6 -0.530586,-0.0931 -0.71875,-0.28125 L 8,10.4375 5.71875,12.71875 C 5.530586,12.90694 5.26529,13 5,13 l -1,0 0,-1 c -3e-6,-0.26529 0.09306,-0.53058 0.28125,-0.71875 L 6.5625,9.03125 4.28125,6.75 C 4.070508,6.55537 3.97809,6.28075 4,6 L 4,5 z"
-       id="path10839-9"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Andale Mono;-inkscape-font-specification:Andale Mono" />
-  </g>
+  <path
+     d="m 4,3 1,0 c 0.01037,-1.2e-4 0.02079,-4.6e-4 0.03125,0 0.254951,0.0112 0.50987,0.12858 0.6875,0.3125 L 8,5.59375 10.3125,3.3125 C 10.578125,3.082 10.759172,3.007 11,3 l 1,0 0,1 c 0,0.28647 -0.03434,0.55065 -0.25,0.75 l -2.28125,2.28125 2.25,2.25 C 11.906938,9.46942 11.999992,9.7347 12,10 l 0,1 -1,0 c -0.265301,-10e-6 -0.530586,-0.0931 -0.71875,-0.28125 L 8,8.4375 5.71875,10.71875 C 5.530586,10.90694 5.26529,11 5,11 L 4,11 4,10 C 3.999997,9.73471 4.09306,9.46942 4.28125,9.28125 L 6.5625,7.03125 4.28125,4.75 C 4.070508,4.55537 3.97809,4.28075 4,4 L 4,3 z"
+     id="path10839-9"
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Andale Mono;-inkscape-font-specification:Andale Mono" />
 </svg>

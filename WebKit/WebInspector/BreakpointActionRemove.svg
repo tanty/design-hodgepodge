@@ -42,14 +42,11 @@
       </cc:License>
     </rdf:RDF>
   </metadata>
-  <g
-     id="layer1">
-    <rect
-       width="9.9996014"
-       height="2.0002136"
-       x="3.0001984"
-       y="6.9997864"
-       id="rect31984"
-       style="color:#bebebe;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
-  </g>
+  <rect
+     width="9.9996014"
+     height="2.0002136"
+     x="3.0001984"
+     y="6.9997864"
+     id="rect31984"
+     style="color:#bebebe;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
 </svg>
