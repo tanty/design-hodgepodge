@@ -31,22 +31,6 @@ else
     svgo --config=$FULL_BASE_PATH/config-svgo.yml --enable=removeComments -p 5 --multipass --pretty -i $2 -o $2
 fi
 
-# sed -i 's/ xmlns:rdf="http:\/\/www.w3.org\/1999\/02\/22-rdf-syntax-ns#"//g' $2
-# sed -i 's/ xmlns:cc="http:\/\/creativecommons.org\/ns#"//g' $2
-# sed -i 's/ xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink"//g' $2
-# sed -i 's/ xmlns:dc="http:\/\/purl.org\/dc\/elements\/1.1\/"//g' $2
-# sed -i 's/ standalone="no"//g' $2
-# sed -i 's/text-indent:0;//g' $2
-# sed -i 's/;text-indent:0//g' $2
-# sed -i 's/text-indent:0//g' $2
-# sed -i 's/text-transform:none;//g' $2
-# sed -i 's/;text-transform:none//g' $2
-# sed -i 's/text-transform:none//g' $2
-# sed -i 's/enable-background:new;//g' $2
-# sed -i 's/;enable-background:new//g' $2
-# sed -i 's/enable-background:new//g' $2
-# sed -i 's/ style=""//g' $2
-
 cat $2 | grep "<text" > /dev/null
 if [ ${?} -eq 0 ] ; then
     echo "WARNING!!! $2 does have text elements"
