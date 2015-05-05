@@ -30,7 +30,7 @@ plugins:
   - convertColors: false
   - removeUnknownsAndDefaults: true
   - removeNonInheritableGroupAttrs: false
-  - removeUselessStrokeAndFill: false
+  - removeUselessStrokeAndFill: true
   - removeViewBox: false
   - cleanupEnableBackground: true
   - removeHiddenElems: true
@@ -47,7 +47,7 @@ plugins:
   - removeUnusedNS: true
   - transformsWithOnePath: false
   - addFillStrokeClass: true
+  - removeStyleAttr: true
   - sortAttrs: true
   - removeTitle: false
   - removeDesc: false
-  - removeStyleAttr: true
