@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="16" height="16" id="svg2983">
+ <defs id="defs2985">
+  <linearGradient id="linearGradient19282" gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
+   <stop id="stop19284" style="stop-color:#666666;stop-opacity:1" offset="0" />
+  </linearGradient>
+ </defs>
+ <metadata id="metadata2988">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title></dc:title>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice" />
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution" />
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+    <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+ <path d="M 12,4 10.666668,4 4,10.66668 4,12 5.333332,12 12,5.33332 z" id="path4934" style="fill-opacity:1;stroke:none" />
+ <path d="M 4,4 5.333332,4 12,10.66668 12,12 10.666668,12 4,5.33332 z" id="path4936" style="fill-opacity:1;stroke:none" />
+ <path d="M 2,1 C 1.44651,1 1,1.44651 1,2 l 0,12 c 0,0.55349 0.44651,1 1,1 l 12,0 c 0.55349,0 1,-0.44651 1,-1 L 15,2 C 15,1.44651 14.55349,1 14,1 L 2,1 z m 1,1 10,0 c 0.55349,0 1,0.44651 1,1 l 0,10 c 0,0.55349 -0.44651,1 -1,1 L 3,14 C 2.44651,14 2,13.55349 2,13 L 2,3 C 2,2.44651 2.44651,2 3,2 z" id="rect4961" style="fill-opacity:1;stroke:none" />
+</svg>
