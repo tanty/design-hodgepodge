@@ -13,18 +13,18 @@
       html.svg img.png { display: none; }
     </style>
   </head>
-  <body bgcolor="green">
+  <body style="background: repeating-linear-gradient(to right, DarkSeaGreen, DarkSeaGreen 30px, Green 30px, Green 32px);">
     <p style="font-size:150%">Igalia SVG Logo Tests</p>
     <table>
       <tr>
-    	<td>
-    	  <p>PNG reference</p>
-    	  <br/>
-    	  <img src="./igalia.png" alt="PNG reference logo">
-    	  <br/>
-    	  <p style="font-size:50%">Original Igalia logo in PNG format.</p>
-    	  <br/>
-    	</td>
+	<td>
+	  <p>PNG reference</p>
+	  <br/>
+	  <img src="./igalia.png" alt="PNG reference logo">
+	  <br/>
+	  <p style="font-size:50%">Original Igalia logo in PNG format.</p>
+	  <br/>
+	</td>
       <!-- 	<td> -->
       <!-- 	  <p>With <em>BackgroundImage</em> against the rest of the HTML content</p> -->
       <!-- 	  <br/> -->
@@ -43,32 +43,31 @@
       <!-- 	  <p style="font-size:50%">Original Igalia logo using the <a href="http://www.w3.org/TR/SVG/filters.html#feBlendElement" target="_blank">feBlend</a> SVG <a href="http://www.w3.org/TR/SVG/filters.html#FilterElement" target="_blank">filter</a> with the <a href="http://www.w3.org/TR/SVG/filters.html#feBlendIn2Attribute" target="_blank">in2</a> attribute holding a <a href="http://www.w3.org/TR/SVG/filters.html#BackgroundImage" target="_blank">BackgroundImage</a> value and the <a href="http://www.w3.org/TR/SVG/filters.html#EnableBackgroundProperty" target="_blank">enable-background</a> property set to <em>new</em>.</p> -->
       <!-- 	  <br/> -->
       <!-- 	</td> -->
-    	<td>
-    	  <p>Without <em>BackgroundImage</em> - defaults</p>
-    	  <br/>
-    	  <img class="svg" src="./igalia-no-backgroundimage-defaults.svg" alt="Logo without BackgroundImage - defaults">
-    	  <br/>
-    	  <p style="font-size:50%">Igalia logo using the <em>feBlend</em> SVG <em>filter</em> with the <em>in2</em> attribute holding the <a href="http://www.w3.org/TR/SVG/filters.html#FilterPrimitiveResultAttribute" target="_blank">result</a> from a <a href="http://www.w3.org/TR/SVG/filters.html#feImageElement" target="_blank">feImage</a> SVG <em>filter</em> <a href="http://www.w3.org/TR/SVG/filters.html#feImageElementHrefAttribute" target="_blank">linking</a> to another embedded SVG document and with <b>default</b> <a href="http://www.w3.org/TR/SVG/filters.html#FilterPrimitiveSubRegion" target="_blank">primitive subregion</a> (<em>x</em>, <em>y</em>, <em>width</em>, <em>height</em>; 0%, 0%, 100%, 100%), and the <em>enable-background</em> property <b>NOT</b> set.</p>
-    	  <br/>
-    	</td>
+	<td>
+	  <p>Without <em>BackgroundImage</em> - defaults</p>
+	  <br/>
+	  <img class="svg" src="./igalia-no-backgroundimage-defaults.svg" alt="Logo without BackgroundImage - defaults">
+	  <br/>
+	  <p style="font-size:50%">Igalia logo using the <em>feBlend</em> SVG <em>filter</em> with the <em>in2</em> attribute holding the <a href="http://www.w3.org/TR/SVG/filters.html#FilterPrimitiveResultAttribute" target="_blank">result</a> from a <a href="http://www.w3.org/TR/SVG/filters.html#feImageElement" target="_blank">feImage</a> SVG <em>filter</em> <a href="http://www.w3.org/TR/SVG/filters.html#feImageElementHrefAttribute" target="_blank">linking</a> to another embedded SVG document and with <b>default</b> <a href="http://www.w3.org/TR/SVG/filters.html#FilterPrimitiveSubRegion" target="_blank">primitive subregion</a> (<em>x</em>, <em>y</em>, <em>width</em>, <em>height</em>; 0%, 0%, 100%, 100%), and the <em>enable-background</em> property <b>NOT</b> set.</p>
+	  <br/>
+	</td>
       </tr>
       <tr>
-    	<td>
-    	  <p>Without <em>BackgroundImage</em> - explicit</p>
-    	  <br/>
-    	  <img class="svg" src="./igalia-no-backgroundimage-explicit.svg" alt="Without BackgroundImage - explicit">
-    	  <br/>
-    	  <p style="font-size:50%">Igalia logo using the <em>feBlend</em> SVG <em>filter</em> with the <em>in2</em> attribute holding the <em>result</em> from a <em>feImage</em> SVG <em>filter</em> <em>linking</em> to another embedded SVG document and with the <em>primitive subregion</em> attributes <em>x</em>, <em>y</em>, <em>width</em>, <em>height</em> explicitely set to <b>0%</b>, <b>0%</b>, <b>100%</b>, <b>100%</b>, and the <em>enable-background</em> property <b>NOT</b> set.</p>
-    	  <br/>
-    	</td>
-    	<td>
-    	  <p>Without <em>BackgroundImage</em> - explicit - resized</p>
-    	  <br/>
-    	  <img class="svg" src="./igalia-no-backgroundimage-explicit-resized-to-height.svg" alt="Logo without BackgroundImage - explicit - resized">
-    	  <br/>
-    	  <p style="font-size:50%">Igalia logo using the <em>feBlend</em> SVG <em>filter</em> with the <em>in2</em> attribute holding the <em>result</em> from a <em>feImage</em> SVG <em>filter</em> <em>linking</em> to another embedded SVG document and with the <em>primitive subregion</em> attributes <em>x</em>, <em>y</em>, <em>width</em>, <em>height</em> explicitely set to <b>0%</b>, <b>0%</b>, <b>172.8%</b>, <b>172.8%</b>, which is the same value than the document's <a href="http://www.w3.org/TR/SVG/struct.html#SVGElementHeightAttribute" target="_blank">height</a>, and the <em>enable-background</em> property <b>NOT</b> set.</p>
-    	  <br/>
-    	</td>
+	<td>
+	  <p>Without <em>BackgroundImage</em> - explicit</p>
+	  <br/>
+	  <img class="svg" src="./igalia-no-backgroundimage-explicit.svg" alt="Without BackgroundImage - explicit">
+	  <br/>
+	  <p style="font-size:50%">Igalia logo using the <em>feBlend</em> SVG <em>filter</em> with the <em>in2</em> attribute holding the <em>result</em> from a <em>feImage</em> SVG <em>filter</em> <em>linking</em> to another embedded SVG document and with the <em>primitive subregion</em> attributes <em>x</em>, <em>y</em>, <em>width</em>, <em>height</em> explicitely set to <b>0%</b>, <b>0%</b>, <b>100%</b>, <b>100%</b>, and the <em>enable-background</em> property <b>NOT</b> set.</p>
+	  <br/>
+	</td>
+	<td>
+	  <p>Without <em>BackgroundImage</em> - explicit - resized</p>
+	  <br/>
+	  <img class="svg" src="./igalia-no-backgroundimage-explicit-resized-to-height.svg" alt="Logo without BackgroundImage - explicit - resized">
+	  <p style="font-size:50%">Igalia logo using the <em>feBlend</em> SVG <em>filter</em> with the <em>in2</em> attribute holding the <em>result</em> from a <em>feImage</em> SVG <em>filter</em> <em>linking</em> to another embedded SVG document and with the <em>primitive subregion</em> attributes <em>x</em>, <em>y</em>, <em>width</em>, <em>height</em> explicitely set to <b>0%</b>, <b>0%</b>, <b>172.8%</b>, <b>172.8%</b>, which is the same value than the document's <a href="http://www.w3.org/TR/SVG/struct.html#SVGElementHeightAttribute" target="_blank">height</a>, and the <em>enable-background</em> property <b>NOT</b> set.</p>
+	  <br/>
+	</td>
       </tr>
     </table>
   </body>
