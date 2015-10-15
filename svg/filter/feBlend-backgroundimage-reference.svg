@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Copyright © 2015 Igalia, S.L. All rights reserved. -->
-<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="484.52" height="172.8" version="1.1" viewBox="0 0 484.515 172.799" style="enable-background:new;">
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="484.52" height="172.8" version="1.1" viewBox="0 0 484.52 172.8" style="enable-background:new;">
   <defs>
     <linearGradient id="redGradient" x1="25.133" y1="142.28" x2="147.37" y2="142.28" gradientUnits="userSpaceOnUse">
       <stop stop-color="#ff0800" offset="0"/>
