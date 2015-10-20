@@ -1,0 +1,15 @@
+[Desktop Entry]
+Hidden=false
+Exec=pdf2pdfx
+Icon=application-pdf
+Type=Application
+NoDisplay=true
+Version=1.0
+MimeType=application/pdf;
+StartupNotify=false
+GenericName[en_US]=PDF to PDF/X-3 converter
+Terminal=false
+Name=PDF to PDF/X-3 converter
+GenericName=PDF to PDF/X-3 converter
+Icon[en_US]=application-pdf
+Name[en_US]=PDF to PDF/X-3 converter

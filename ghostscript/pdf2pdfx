@@ -1,0 +1,16 @@
+#!/bin/bash
+
+gs \
+-dPDFX \
+-dBATCH \
+-dNOPAUSE \
+-dNOOUTERSAVE \
+-dPDFSETTINGS=/prepress \
+-dCompatibilityLevel=1.5 \
+-sDEVICE=pdfwrite \
+-sColorConversionStrategy=CMYK \
+-sProcessColorModel=DeviceCMYK \
+-dHaveTransparency=false \
+-sOutputFile="${1%%.pdf}_X-3.pdf" \
+PDFX_def.ps \
+"$1"
