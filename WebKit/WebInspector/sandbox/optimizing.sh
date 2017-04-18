@@ -31,7 +31,10 @@ else
     svgo --config=$FULL_BASE_PATH/config-svgo.yml --enable=removeComments -p 5 --multipass --pretty -i $2 -o $2
 fi
 
-sed -i 's/    / /g' $2
+sed -i \
+    -e 's|<svg xmlns="http://www.w3.org/2000/svg" |<svg xmlns="http://www.w3.org/2000/svg" id="root" |' \
+    -e 's/    / /g' \
+    $2
 
 cat $2 | grep "<text" > /dev/null
 if [ ${?} -eq 0 ] ; then
