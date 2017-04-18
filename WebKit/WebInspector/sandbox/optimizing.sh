@@ -33,6 +33,7 @@ fi
 
 sed -i \
     -e 's|<svg xmlns="http://www.w3.org/2000/svg" |<svg xmlns="http://www.w3.org/2000/svg" id="root" |' \
+    -e 's/#123456/currentColor/g' \
     -e 's/    / /g' \
     $2
 
